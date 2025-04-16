@@ -2,6 +2,9 @@
 
 A centralized platform for accessing AI planning software metadata, with features to discover, filter, sort, and add new software metadata.
 
+## Master Thesis Report
+For a complete overview of the research, please access the PDF [Design and implementation of a platform for discovering and sharing AI planning software](https://github.com/imsaurabh1/MasterThesis_Report/blob/main/MasterThesis_SaurabhAdhau.pdf).
+
 ## Prerequisites
 
 - **Docker Desktop**  
